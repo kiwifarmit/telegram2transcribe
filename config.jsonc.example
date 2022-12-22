@@ -1,0 +1,28 @@
+{
+    "aws": {
+        "key": {
+            "access_id": "x",
+            "secret_access": "x"
+        },
+        "profile_name": "x",
+        "region_name": "x",
+        "s3": {
+            "bucket": "x"
+        }
+    },
+    "telegram": {
+        "bot": {
+            // getting updates (while bot turned off) at
+            // https://api.telegram.org/bot<token>/getUpdates
+            "api_prefix": "https://api.telegram.org/bot",
+            "token": "x:x"
+        },
+        "chat": {
+            "input_id": -1,
+            "output_id": -2
+        }
+    },
+    "transcribe": {
+        "sleep": 40
+    }
+}

@@ -1,0 +1,6 @@
+boto3==1.26.34
+jsonc-parser==1.1.5
+pandas==1.5.2
+pydub==0.25.1
+python-telegram-bot==13.15
+requests==2.28.1
